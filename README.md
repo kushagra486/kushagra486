@@ -6,6 +6,9 @@
 <br/>
 
 <p>
+  <a href="https://kushagra486.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-kushagra486.github.io-0A84FF?style=for-the-badge" alt="Portfolio: kushagra486.github.io"/>
+  </a>
   <a href="https://github.com/kushagra486?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-9+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
   </a>
